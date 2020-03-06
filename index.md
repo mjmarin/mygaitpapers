@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Gait papers I have co-authored
 
-You can use the [editor on GitHub](https://github.com/mjmarin/mygaitpapers/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This site compiles the set of research papers on gait recognition that I have co-authored.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Papers not using deep learning
 
-### Markdown
+* Francisco M. Castro, Manuel J. Marín-Jiménez, Rafael Medina Carnicer: _"Pyramidal Fisher Motion for Multiview Gait Recognition"_. ICPR 2014: 1692-1697 [[doi-link](https://doi.org/10.1109/ICPR.2014.298)]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* David López-Fernández, Francisco José Madrid-Cuevas, Ángel Carmona Poyato, Manuel Jesús Marín-Jiménez, Rafael Muñoz-Salinas: _"The AVA Multi-View Dataset for Gait Recognition"_. AMMDS 2014: 26-39 [[doi-link](https://doi.org/10.1007/978-3-319-13323-2_3)]
 
-```markdown
-Syntax highlighted code block
+* Francisco M. Castro, Manuel J. Marín-Jiménez, Nicolás Guil: _"Empirical Study of Audio-Visual Features Fusion for Gait Recognition"_. CAIP (1) 2015: 727-739 [[doi-link](https://doi.org/10.1007/978-3-319-23192-1_61)]
 
-# Header 1
-## Header 2
-### Header 3
+* Manuel J. Marín-Jiménez, Francisco M. Castro, Ángel Carmona Poyato, Nicolás Guil: _"On how to improve tracklet-based gait recognition systems"_. Pattern Recognit. Lett. 68: 103-110 (2015) [[doi-link](https://doi.org/10.1016/j.patrec.2015.08.025)]
 
-- Bulleted
-- List
+* Francisco M. Castro, Manuel J. Marín-Jiménez, Nicolás Guil: _"Multimodal features fusion for gait, gender and shoes recognition"_. Mach. Vis. Appl. 27(8): 1213-1228 (2016) [[doi-link](https://doi.org/10.1007/s00138-016-0767-5)]
 
-1. Numbered
-2. List
+* David López-Fernández, Francisco José Madrid-Cuevas, Ángel Carmona Poyato, Manuel J. Marín-Jiménez, Rafael Muñoz-Salinas, Rafael Medina Carnicer: _"Viewpoint-independent gait recognition through morphological descriptions of 3D human reconstructions"_. Image Vis. Comput. 48-49: 1-13 (2016) [[doi-link](https://doi.org/10.1016/j.imavis.2016.01.003)]
 
-**Bold** and _Italic_ and `Code` text
+* Francisco M. Castro, Manuel J. Marín-Jiménez, Nicolás Guil Mata, Rafael Muñoz-Salinas: _"Fisher Motion Descriptor for Multiview Gait Recognition"_. IJPRAI 31(1): 1756002:1-1756002:40 (2017) [[doi-link](https://doi.org/10.1142/S021800141756002X)]
 
-[Link](url) and ![Image](src)
-```
+### Papers using deep learning
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Francisco M. Castro, Manuel J. Marín-Jiménez, Nicolás Guil, Nicolas Pérez de la Blanca: _"Automatic Learning of Gait Signatures for People Identification"_. IWANN (2) 2017: 257-270 [[doi-link](https://doi.org/10.1007/978-3-319-59147-6_23)]
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mjmarin/mygaitpapers/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contact
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can find my contact details in my official website: [go!](http://www.uco.es/~in1majim/).
