@@ -2,6 +2,14 @@
 
 This site compiles the set of research papers on gait recognition that I have co-authored.
 
+## TLDR-summary
+
+We have tried to avoid the use of binary silhouettes and their derived descriptors (e.g. GEI), focusing on the use of optical flow and related featured (i.e. tracklets).
+
+We have also explored the effect of combining different sources of information (e.g. depth maps or IMUs), developing multimodal systems.
+
+The datasets we like most are: [CASIA-B](http://www.cbsr.ia.ac.cn/english/Gait%20Databases.asp), [TUM-GAID](https://www.ei.tum.de/mmk/verschiedenes/tum-gaid-database/) and, of course, [AVAMVG](https://www.uco.es/investiga/grupos/ava/node/41).
+
 ### Papers not using deep learning
 
 * Francisco M. Castro, Manuel J. Marín-Jiménez, Rafael Medina Carnicer: _"Pyramidal Fisher Motion for Multiview Gait Recognition"_. ICPR 2014: 1692-1697 [[doi-link](https://doi.org/10.1109/ICPR.2014.298)]
@@ -21,6 +29,18 @@ This site compiles the set of research papers on gait recognition that I have co
 ### Papers using deep learning
 
 * Francisco M. Castro, Manuel J. Marín-Jiménez, Nicolás Guil, Nicolas Pérez de la Blanca: _"Automatic Learning of Gait Signatures for People Identification"_. IWANN (2) 2017: 257-270 [[doi-link](https://doi.org/10.1007/978-3-319-59147-6_23)]
+
+* Manuel J. Marín-Jiménez, Francisco M. Castro, Nicolás Guil, F. de la Torre, Rafael Medina Carnicer: _"Deep multi-task learning for gait-based biometrics"_. ICIP 2017: 106-110 [[doi-link](https://doi.org/10.1109/ICIP.2017.8296252)]
+
+* Francisco M. Castro, Manuel J. Marín-Jiménez, Nicolás Guil, Santiago Lopez Tapia, Nicolas Pérez de la Blanca: _"Evaluation of CNN Architectures for Gait Recognition Based on Optical Flow Maps"_. BIOSIG 2017: 251-258 [[doi-link](https://doi.org/10.23919/BIOSIG.2017.8053503)]
+
+* Ruben Delgado-Escano, Francisco M. Castro, Julián Ramos Cózar, Manuel J. Marín-Jiménez, Nicolás Guil Mata: _"An End-to-End Multi-Task and Fusion CNN for Inertial-Based Gait Recognition"_. IEEE Access 7: 1897-1908 (2019) [[doi-link](https://doi.org/10.1109/ACCESS.2018.2886899)]
+
+* Ruben Delgado-Escaño, Francisco M. Castro, JR Cózar, Manuel J. Marín-Jiménez, Nicolás Guil, Eduardo Casilari: _"A cross-dataset deep learning-based classifier for people fall detection and identification"_. Computer methods and programs in biomedicine 184: (2020) [[doi-link](https://doi.org/10.1016/j.cmpb.2019.105265)]
+
+* Francisco M. Castro, Manuel J. Marín-Jiménez, Nicolás Guil, Nicolás Pérez de la Blanca: _"Multimodal feature fusion for CNN-based gait recognition: an empirical comparison"_. Neural Computing and Applications (2020) [[arxiv](https://arxiv.org/abs/1806.07753)]
+
+* Ruben Delgado-Escaño, Francisco M. Castro, JR Cózar, Manuel J. Marín-Jiménez, Nicolás Guil: _"MuPeG—The Multiple Person Gait Framework"_. Sensors 20 (5): 1358 (2020) [[doi-link](https://doi.org/10.3390/s20051358)]
 
 
 ### Contact
