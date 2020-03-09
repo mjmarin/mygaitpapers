@@ -2,11 +2,17 @@
 
 This site compiles the set of research papers on gait recognition that I have co-authored.
 
+<p align="center">
+<img src="./images/inputfeatures.jpg" width="320" alt="Input gait data" align="center">
+</p>
+
 ## TLDR-summary
 
 We have tried to avoid the use of binary silhouettes and their derived descriptors (e.g. GEI), focusing on the use of optical flow and related featured (i.e. tracklets).
 
 We have also explored the effect of combining different sources of information (e.g. depth maps or IMUs), developing multimodal systems.
+
+Additionally, we have investigated the contribution of using auxiliary tasks (e.g. gender recognition, age estimation) for training gait models.
 
 The datasets we like most are: [CASIA-B](http://www.cbsr.ia.ac.cn/english/Gait%20Databases.asp), [TUM-GAID](https://www.ei.tum.de/mmk/verschiedenes/tum-gaid-database/) and, of course, [AVAMVG](https://www.uco.es/investiga/grupos/ava/node/41).
 
