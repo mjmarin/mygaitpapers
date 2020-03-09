@@ -38,7 +38,7 @@ The datasets we like most are: [CASIA-B](http://www.cbsr.ia.ac.cn/english/Gait%2
 
 * Ruben Delgado-Escaño, Francisco M. Castro, JR Cózar, Manuel J. Marín-Jiménez, Nicolás Guil, Eduardo Casilari: _"A cross-dataset deep learning-based classifier for people fall detection and identification"_. Computer methods and programs in biomedicine 184: (2020) [[doi-link](https://doi.org/10.1016/j.cmpb.2019.105265)]
 
-* Francisco M. Castro, Manuel J. Marín-Jiménez, Nicolás Guil, Nicolás Pérez de la Blanca: _"Multimodal feature fusion for CNN-based gait recognition: an empirical comparison"_. Neural Computing and Applications (2020) [[arxiv](https://arxiv.org/abs/1806.07753)] **[[Code](https://github.com/avagait/cnngaitmm)]**
+* Francisco M. Castro, Manuel J. Marín-Jiménez, Nicolás Guil, Nicolás Pérez de la Blanca: _"Multimodal feature fusion for CNN-based gait recognition: an empirical comparison"_. Neural Computing and Applications (2020) [[arxiv](https://arxiv.org/abs/1806.07753)] [[doi-link](https://link.springer.com/article/10.1007/s00521-020-04811-z)] **[[Code](https://github.com/avagait/cnngaitmm)]**
 
 * Ruben Delgado-Escaño, Francisco M. Castro, JR Cózar, Manuel J. Marín-Jiménez, Nicolás Guil: _"MuPeG—The Multiple Person Gait Framework"_. Sensors 20 (5): 1358 (2020) [[doi-link](https://doi.org/10.3390/s20051358)] **[[Code](https://github.com/rubende/cnngait_tf)]**
 
