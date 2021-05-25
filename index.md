@@ -48,7 +48,9 @@ The datasets we like most are: [CASIA-B](http://www.cbsr.ia.ac.cn/english/Gait%2
 
 * Ruben Delgado-Escaño, Francisco M. Castro, JR Cózar, Manuel J. Marín-Jiménez, Nicolás Guil: _"MuPeG—The Multiple Person Gait Framework"_. Sensors 20 (5): 1358 (2020) [[doi-link](https://doi.org/10.3390/s20051358)] **[[Code](https://github.com/rubende/cnngait_tf)]**
 
-* Zihao Mu, Francisco M. Castro, Manuel J. Marín-Jiménez, Nicolas Guil, Yanran Li, Shiqi Yu: _"iLGaCo: Incremental Learning of Gait Covariate Factors"_. [IJCB 2020](https://ieee-biometrics.org/ijcb2020/Program.html) [[arxiv-link](https://arxiv.org/abs/2008.13507)] 
+* Zihao Mu, Francisco M. Castro, Manuel J. Marín-Jiménez, Nicolas Guil, Yanran Li, Shiqi Yu: _"iLGaCo: Incremental Learning of Gait Covariate Factors"_. [IJCB 2020](https://ieee-biometrics.org/ijcb2020/Program.html) [[arxiv-link](https://arxiv.org/abs/2008.13507)] [[doi-link]](https://doi.org/10.1109/IJCB48548.2020.9304857)  
+
+* Ruben Delgado-Escaño, Francisco M. Castro, Nicolas Guil, Vicky Kalogeiton, Manuel J. Marín-Jiménez: _"Multimodal Gait Recognition under Missing Modalities"_. ICIP 2021 (Coming soon) **[[Code](https://github.com/avagait/gaitmiss)]**
 
 
 ### Contact
