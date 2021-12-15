@@ -50,7 +50,13 @@ The datasets we like most are: [CASIA-B](http://www.cbsr.ia.ac.cn/english/Gait%2
 
 * Zihao Mu, Francisco M. Castro, Manuel J. Marín-Jiménez, Nicolas Guil, Yanran Li, Shiqi Yu: _"iLGaCo: Incremental Learning of Gait Covariate Factors"_. [IJCB 2020](https://ieee-biometrics.org/ijcb2020/Program.html) [[arxiv-link](https://arxiv.org/abs/2008.13507)] [[doi-link]](https://doi.org/10.1109/IJCB48548.2020.9304857)  
 
-* Ruben Delgado-Escaño, Francisco M. Castro, Nicolas Guil, Vicky Kalogeiton, Manuel J. Marín-Jiménez: _"Multimodal Gait Recognition under Missing Modalities"_. ICIP 2021 (Coming soon) **[[Code](https://github.com/avagait/gaitmiss)]**
+* Ruben Delgado-Escaño, Francisco M. Castro, Nicolas Guil, Vicky Kalogeiton, Manuel J. Marín-Jiménez: _"Multimodal Gait Recognition under Missing Modalities"_. [ICIP 2021] (https://ieeexplore.ieee.org/document/9506162) **[[Code](https://github.com/avagait/gaitmiss)]**
+
+* Zihao Mu, Francisco M. Castro, Manuel J. Marín-Jiménez, Nicolás Guil, Yan-Ran Li, Shiqi Yu: _"ReSGait: The Real-Scene Gait Dataset"_. [IJCB 2021](https://ieeexplore.ieee.org/document/9484347)
+
+* Ruben Delgado-Escaño, Francisco M. Castro, Nicolas Guil, Manuel J. Marín-Jiménez: _"GaitCopy: disentangling appearance for gait recognition by signature copy"_. IEEE Access (2021) [[doi-link](https://ieeexplore.ieee.org/document/9646881)]
+
+*  Manuel J. Marín-Jiménez, Francisco M. Castro, Ruben Delgado-Escaño, Vicky Kalogeiton, Nicolas Guil: _"UGaitNet: Multimodal Gait Recognition With Missing Input Modalities"_. IEEE TIFS (2021) [[doi-link](https://ieeexplore.ieee.org/document/9634027)] **[[Code](https://github.com/avagait/ugaitnet)]**
 
 
 ### Contact
