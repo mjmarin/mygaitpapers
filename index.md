@@ -58,6 +58,9 @@ The datasets we like most are: [CASIA-B](http://www.cbsr.ia.ac.cn/english/Gait%2
 
 *  Manuel J. Marín-Jiménez, Francisco M. Castro, Ruben Delgado-Escaño, Vicky Kalogeiton, Nicolas Guil: _"UGaitNet: Multimodal Gait Recognition With Missing Input Modalities"_. IEEE TIFS (2021) [[doi-link](https://ieeexplore.ieee.org/document/9634027)] **[[Code](https://github.com/avagait/ugaitnet)]**
 
+*  	Nicolás Cubero, Francisco M. Castro, Julián Ramos Cózar, Nicolás Guil, Manuel J. Marín-Jiménez: _"Multimodal Human Pose Feature Fusion for Gait Recognition"_. IbPRIA 2023 [[doi-link](https://doi.org/10.1007/978-3-031-36616-1_31)]
+
+*  Francisco M. Castro, Rubén Delgado-Escaño, Ruber Hernández-García, Manuel J. Marín-Jiménez, Nicolás Guil: _"AttenGait: Gait recognition with attention and rich modalities"_. Pattern Recognit. (2024) [[doi-link](https://doi.org/10.1016/j.patcog.2023.110171)]
 
 ### Contact
 
